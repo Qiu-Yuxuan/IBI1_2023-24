@@ -10,7 +10,7 @@
  # output "Training only by running is better."
 #if d < e：
   #output"Training by both running and strength exercises is better."
-#否则：
+#else：
   #output "Both training are equally good."
 a=40
 b=36
