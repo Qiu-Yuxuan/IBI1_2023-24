@@ -1,0 +1,2 @@
+It is not easy in general, but not so difficult as practical8. The part of caculate values can be solved by myself
+The most important thing I learned is to simulate process of infection by np.random.choice()
