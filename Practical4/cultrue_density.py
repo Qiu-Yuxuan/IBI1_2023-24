@@ -7,5 +7,5 @@ while density<90 :
     density=2*density
     day=day+1
 # Output results
-print("on the day"+str(day+1),"the cell over 90% density")
-print(str(day-1),"is the maxium number of days I can have a holiday stay away from the lab")
+print("on the day"+str(day),"the cell over 90% density")
+print(str(day-2),"is the maxium number of days I can have a holiday stay away from the lab")

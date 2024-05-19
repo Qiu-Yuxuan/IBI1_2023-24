@@ -23,3 +23,15 @@ elif d<e:
   print("Training by both running and strength exercises is better.") 
 else:
   print("Both training are equally good.") 
+X=True
+Y=False
+W=X!=Y
+print("X="+str(X))
+print("Y="+str(Y))
+print("W="+str(W))
+# W is true if X is True and Y is False
+#    X       Y         W
+#   True    True      False
+#   True    False     True
+#   False   True      True
+#   False   False     False
